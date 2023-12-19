@@ -1,11 +1,16 @@
 {
-  "posts": [
+  "bookings": [
     {
-      "id": 1,
-      "title": "hello"
+      "Booking Id": 1004,
+      "Service wash": "Car Wash",
+      "Email Id" : "Sarah@gmail.com",
+      "Booking Date":2022-10-22
+    },
+    {
+      "Booking Id": 1021,
+      "Service wash": "Denting and Painting",
+      "Email Id" : "hope@gmail.com",
+      "Booking Date":2022-12-22
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
