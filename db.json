@@ -1,4 +1,4 @@
-{
+
   "bookings": [
     {
       "Booking_Id": 1004,
@@ -13,4 +13,4 @@
       "Booking_Date":"2022-12-22"
     }
   ]
-}
+
