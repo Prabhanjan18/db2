@@ -1,16 +1,16 @@
 {
   "bookings": [
     {
-      "Booking Id": 1004,
-      "Service wash": "Car Wash",
-      "Email Id" : "Sarah@gmail.com",
-      "Booking Date":"2022-10-22"
+      "Booking_Id": 1004,
+      "Service_wash": "Car Wash",
+      "Email_Id" : "Sarah@gmail.com",
+      "Booking_Date":"2022-10-22"
     },
     {
-      "Booking Id": 1021,
-      "Service wash": "Denting and Painting",
-      "Email Id" : "hope@gmail.com",
-      "Booking Date":"2022-12-22"
+      "Booking_Id": 1021,
+      "Service_wash": "Denting and Painting",
+      "Email_Id" : "hope@gmail.com",
+      "Booking_Date":"2022-12-22"
     },
   ]
 }
